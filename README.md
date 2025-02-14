@@ -36,17 +36,5 @@ Installation and Usage:
       python tic_tac_toe.py
 4. Follow the on-screen instructions to play the game.
 
-
-
-Sample Output:
-
-TIC-TAC-TOE
-
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-Player 1's turn (X). Enter your move (1-9):
-
 Requirements:
 Python 3.x
